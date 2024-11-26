@@ -1,11 +1,13 @@
-Zabbu - Your Personal Virtual Assistant
+##  Zabbu - Your Personal Virtual Assistant
 
 Zabbu is an intelligent virtual assistant created using HTML, CSS, and JavaScript. It interacts with users through voice commands, answers questions, and performs various tasks.
 
 
 ---
+## Deme
+[Live Demo](https://zabuuvirtual.netlify.app)
 
-Features
+## Features
 
 1. Voice Interaction: Zabbu listens to and responds to user commands.
 
@@ -41,21 +43,9 @@ Solves simple math expressions like 2+2 or 10*5.
 
 
 
----
+--
 
-Installation and Setup
-
-1. Clone or download the repository.
-
-
-2. Open the index.html file in any modern web browser.
-
-
-
-
----
-
-How Zabbu Works
+##  How Zabbu Works
 
 1. Speech Recognition: Listens to commands using the Web Speech API (SpeechRecognition).
 
@@ -70,7 +60,7 @@ How Zabbu Works
 
 ---
 
-Technologies Used
+##  Technologies Used
 
 HTML: For structuring the user interface.
 

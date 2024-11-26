@@ -1,0 +1,111 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+html,body {
+height: 100%;
+width: 100%;
+background-color: black;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+gap: 30px;
+}
+
+.logo{
+    width: 25%;
+    height: 40%;
+}
+h1{
+    color: white;
+}
+
+#name{
+    color: purple;
+}
+#VA{
+    color: blue;
+}
+#voice{
+    width: 10%;
+    display: none;
+}
+#btn{
+    width: 25%;
+    background: linear-gradient(to right, rgba(128, 0, 128, 0.8), rgba(0, 0, 255, 0.8));
+    align-items: center;
+    padding: 8px;
+    gap: 10px;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 30px;
+    color: azure;
+    box-shadow: 2px 2px 5px 2px;
+    border: none;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+#btn:hover{
+    color: red;
+    background: url(voice.gif);
+    letter-spacing: 2px;
+}
+
+
+@media (max-width: 768px) {
+    .logo {
+        width: 50%;
+        height: 30%;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    #name, #VA {
+        font-size: 1.2rem;
+    }
+
+    #btn {
+        width: 60%;
+        font-size: 1.2rem;
+    }
+
+    #voice {
+        width: 20%;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo {
+        width: 70%;
+        height: 25%;
+    }
+
+    h1 {
+        font-size: 1.2rem;
+    }
+
+    #name, #VA {
+        font-size: 1rem;
+    }
+
+    #btn {
+        width: 80%;
+        font-size: 1rem;
+    }
+
+    #voice {
+        width: 30%;
+    }
+    html, body {
+        gap: 20px;
+    }
+
+    #btn {
+        padding: 12px; 
+    }
+}
+

@@ -4,12 +4,7 @@ Zabbu is an intelligent virtual assistant created using HTML, CSS, and JavaScrip
 
 
 ---
-## Deme
-[Live Demo](https://zabuuvirtual.netlify.app)
-
-![image](https://github.com/user-attachments/assets/bcd709f4-6390-41df-bbef-233630ffbbf2)
-
-## Deme
+## Demo
 [Live Demo](https://zabuuvirtual.netlify.app)
 
 ## Features
@@ -76,3 +71,4 @@ JavaScript: For implementing logic and interactivity.
 
 
 ---
+![image](https://github.com/user-attachments/assets/bcd709f4-6390-41df-bbef-233630ffbbf2)

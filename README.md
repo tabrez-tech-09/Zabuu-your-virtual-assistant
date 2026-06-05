@@ -1,6 +1,6 @@
 ##  Zabbu - Your Personal Virtual Assistant
 
-Zabbu is an intelligent virtual assistant created using HTML, CSS, and JavaScript. It interacts with users through voice commands, answers questions, and performs various tasks.
+Zabbu is an intelligent virtual assistant created using HTML, CSS, and JavaScript. It interacts with users through voice commands, answers questions, and performs various tasks operate.
 
 
 ---
